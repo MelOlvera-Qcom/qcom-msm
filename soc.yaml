@@ -18,6 +18,9 @@ pinctrl:
 interconnects:
   name: Interconnects
   intop: True
+socinfo:
+  name: SoC Info
+  intop: True
 uart:
   name: UART
   intop: True
